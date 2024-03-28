@@ -1,2 +1,3 @@
-# Portfolio
-This is my personal portfolio
+# Projects
+Contains projects developed.</br>
+Author: JAYA PRAKASH M
