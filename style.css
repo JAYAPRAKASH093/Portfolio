@@ -179,6 +179,10 @@ section {
   border-radius: 50%;
 }
 
+.text-container {
+  text-align: justify;
+}
+
 .section__text {
   align-self: center;
   text-align: center;
